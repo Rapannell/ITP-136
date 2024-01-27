@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CloneTestCW",
+    "\\HelloWorldCW",
+    "\\HelloWorldCW\\HelloWorldCW"
   ],
-  "SelectedNode": "\\D:\\Repos\\ITP-136",
+  "SelectedNode": "\\HelloWorldCW\\HelloWorldCW\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

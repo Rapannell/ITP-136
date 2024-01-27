@@ -1,0 +1,15 @@
+D:\Repos\ITP-136\HelloWorldCW\HelloWorldCW\bin\Debug\net8.0\HelloWorldCW.exe
+D:\Repos\ITP-136\HelloWorldCW\HelloWorldCW\bin\Debug\net8.0\HelloWorldCW.deps.json
+D:\Repos\ITP-136\HelloWorldCW\HelloWorldCW\bin\Debug\net8.0\HelloWorldCW.runtimeconfig.json
+D:\Repos\ITP-136\HelloWorldCW\HelloWorldCW\bin\Debug\net8.0\HelloWorldCW.dll
+D:\Repos\ITP-136\HelloWorldCW\HelloWorldCW\bin\Debug\net8.0\HelloWorldCW.pdb
+D:\Repos\ITP-136\HelloWorldCW\HelloWorldCW\obj\Debug\net8.0\HelloWorldCW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\ITP-136\HelloWorldCW\HelloWorldCW\obj\Debug\net8.0\HelloWorldCW.AssemblyInfoInputs.cache
+D:\Repos\ITP-136\HelloWorldCW\HelloWorldCW\obj\Debug\net8.0\HelloWorldCW.AssemblyInfo.cs
+D:\Repos\ITP-136\HelloWorldCW\HelloWorldCW\obj\Debug\net8.0\HelloWorldCW.csproj.CoreCompileInputs.cache
+D:\Repos\ITP-136\HelloWorldCW\HelloWorldCW\obj\Debug\net8.0\HelloWorldCW.sourcelink.json
+D:\Repos\ITP-136\HelloWorldCW\HelloWorldCW\obj\Debug\net8.0\HelloWorldCW.dll
+D:\Repos\ITP-136\HelloWorldCW\HelloWorldCW\obj\Debug\net8.0\refint\HelloWorldCW.dll
+D:\Repos\ITP-136\HelloWorldCW\HelloWorldCW\obj\Debug\net8.0\HelloWorldCW.pdb
+D:\Repos\ITP-136\HelloWorldCW\HelloWorldCW\obj\Debug\net8.0\HelloWorldCW.genruntimeconfig.cache
+D:\Repos\ITP-136\HelloWorldCW\HelloWorldCW\obj\Debug\net8.0\ref\HelloWorldCW.dll
