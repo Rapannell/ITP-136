@@ -1,0 +1,15 @@
+D:\Repos\ITP-136\Module3AssignmentHW\Module3AssignmentHW\bin\Debug\net8.0\Module3AssignmentHW.exe
+D:\Repos\ITP-136\Module3AssignmentHW\Module3AssignmentHW\bin\Debug\net8.0\Module3AssignmentHW.deps.json
+D:\Repos\ITP-136\Module3AssignmentHW\Module3AssignmentHW\bin\Debug\net8.0\Module3AssignmentHW.runtimeconfig.json
+D:\Repos\ITP-136\Module3AssignmentHW\Module3AssignmentHW\bin\Debug\net8.0\Module3AssignmentHW.dll
+D:\Repos\ITP-136\Module3AssignmentHW\Module3AssignmentHW\bin\Debug\net8.0\Module3AssignmentHW.pdb
+D:\Repos\ITP-136\Module3AssignmentHW\Module3AssignmentHW\obj\Debug\net8.0\Module3AssignmentHW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\ITP-136\Module3AssignmentHW\Module3AssignmentHW\obj\Debug\net8.0\Module3AssignmentHW.AssemblyInfoInputs.cache
+D:\Repos\ITP-136\Module3AssignmentHW\Module3AssignmentHW\obj\Debug\net8.0\Module3AssignmentHW.AssemblyInfo.cs
+D:\Repos\ITP-136\Module3AssignmentHW\Module3AssignmentHW\obj\Debug\net8.0\Module3AssignmentHW.csproj.CoreCompileInputs.cache
+D:\Repos\ITP-136\Module3AssignmentHW\Module3AssignmentHW\obj\Debug\net8.0\Module3AssignmentHW.sourcelink.json
+D:\Repos\ITP-136\Module3AssignmentHW\Module3AssignmentHW\obj\Debug\net8.0\Module3AssignmentHW.dll
+D:\Repos\ITP-136\Module3AssignmentHW\Module3AssignmentHW\obj\Debug\net8.0\refint\Module3AssignmentHW.dll
+D:\Repos\ITP-136\Module3AssignmentHW\Module3AssignmentHW\obj\Debug\net8.0\Module3AssignmentHW.pdb
+D:\Repos\ITP-136\Module3AssignmentHW\Module3AssignmentHW\obj\Debug\net8.0\Module3AssignmentHW.genruntimeconfig.cache
+D:\Repos\ITP-136\Module3AssignmentHW\Module3AssignmentHW\obj\Debug\net8.0\ref\Module3AssignmentHW.dll
