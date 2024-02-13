@@ -1,0 +1,15 @@
+D:\Repos\ITP-136\Module4AssignmentHW\Module4AssignmentHW\bin\Debug\net8.0\Module4AssignmentHW.exe
+D:\Repos\ITP-136\Module4AssignmentHW\Module4AssignmentHW\bin\Debug\net8.0\Module4AssignmentHW.deps.json
+D:\Repos\ITP-136\Module4AssignmentHW\Module4AssignmentHW\bin\Debug\net8.0\Module4AssignmentHW.runtimeconfig.json
+D:\Repos\ITP-136\Module4AssignmentHW\Module4AssignmentHW\bin\Debug\net8.0\Module4AssignmentHW.dll
+D:\Repos\ITP-136\Module4AssignmentHW\Module4AssignmentHW\bin\Debug\net8.0\Module4AssignmentHW.pdb
+D:\Repos\ITP-136\Module4AssignmentHW\Module4AssignmentHW\obj\Debug\net8.0\Module4AssignmentHW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\ITP-136\Module4AssignmentHW\Module4AssignmentHW\obj\Debug\net8.0\Module4AssignmentHW.AssemblyInfoInputs.cache
+D:\Repos\ITP-136\Module4AssignmentHW\Module4AssignmentHW\obj\Debug\net8.0\Module4AssignmentHW.AssemblyInfo.cs
+D:\Repos\ITP-136\Module4AssignmentHW\Module4AssignmentHW\obj\Debug\net8.0\Module4AssignmentHW.csproj.CoreCompileInputs.cache
+D:\Repos\ITP-136\Module4AssignmentHW\Module4AssignmentHW\obj\Debug\net8.0\Module4AssignmentHW.sourcelink.json
+D:\Repos\ITP-136\Module4AssignmentHW\Module4AssignmentHW\obj\Debug\net8.0\Module4AssignmentHW.dll
+D:\Repos\ITP-136\Module4AssignmentHW\Module4AssignmentHW\obj\Debug\net8.0\refint\Module4AssignmentHW.dll
+D:\Repos\ITP-136\Module4AssignmentHW\Module4AssignmentHW\obj\Debug\net8.0\Module4AssignmentHW.pdb
+D:\Repos\ITP-136\Module4AssignmentHW\Module4AssignmentHW\obj\Debug\net8.0\Module4AssignmentHW.genruntimeconfig.cache
+D:\Repos\ITP-136\Module4AssignmentHW\Module4AssignmentHW\obj\Debug\net8.0\ref\Module4AssignmentHW.dll
