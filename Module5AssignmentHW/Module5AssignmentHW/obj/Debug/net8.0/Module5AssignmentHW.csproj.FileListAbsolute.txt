@@ -1,0 +1,15 @@
+D:\Repos\ITP-136\Module5AssignmentHW\Module5AssignmentHW\obj\Debug\net8.0\Module5AssignmentHW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\ITP-136\Module5AssignmentHW\Module5AssignmentHW\obj\Debug\net8.0\Module5AssignmentHW.AssemblyInfoInputs.cache
+D:\Repos\ITP-136\Module5AssignmentHW\Module5AssignmentHW\obj\Debug\net8.0\Module5AssignmentHW.AssemblyInfo.cs
+D:\Repos\ITP-136\Module5AssignmentHW\Module5AssignmentHW\obj\Debug\net8.0\Module5AssignmentHW.csproj.CoreCompileInputs.cache
+D:\Repos\ITP-136\Module5AssignmentHW\Module5AssignmentHW\obj\Debug\net8.0\Module5AssignmentHW.sourcelink.json
+D:\Repos\ITP-136\Module5AssignmentHW\Module5AssignmentHW\bin\Debug\net8.0\Module5AssignmentHW.exe
+D:\Repos\ITP-136\Module5AssignmentHW\Module5AssignmentHW\bin\Debug\net8.0\Module5AssignmentHW.deps.json
+D:\Repos\ITP-136\Module5AssignmentHW\Module5AssignmentHW\bin\Debug\net8.0\Module5AssignmentHW.runtimeconfig.json
+D:\Repos\ITP-136\Module5AssignmentHW\Module5AssignmentHW\bin\Debug\net8.0\Module5AssignmentHW.dll
+D:\Repos\ITP-136\Module5AssignmentHW\Module5AssignmentHW\bin\Debug\net8.0\Module5AssignmentHW.pdb
+D:\Repos\ITP-136\Module5AssignmentHW\Module5AssignmentHW\obj\Debug\net8.0\Module5AssignmentHW.dll
+D:\Repos\ITP-136\Module5AssignmentHW\Module5AssignmentHW\obj\Debug\net8.0\refint\Module5AssignmentHW.dll
+D:\Repos\ITP-136\Module5AssignmentHW\Module5AssignmentHW\obj\Debug\net8.0\Module5AssignmentHW.pdb
+D:\Repos\ITP-136\Module5AssignmentHW\Module5AssignmentHW\obj\Debug\net8.0\Module5AssignmentHW.genruntimeconfig.cache
+D:\Repos\ITP-136\Module5AssignmentHW\Module5AssignmentHW\obj\Debug\net8.0\ref\Module5AssignmentHW.dll
