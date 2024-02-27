@@ -1,0 +1,15 @@
+D:\Repos\ITP-136\Week6AssignmentHW\Week6AssignmentHW\obj\Debug\net8.0\Week6AssignmentHW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\ITP-136\Week6AssignmentHW\Week6AssignmentHW\obj\Debug\net8.0\Week6AssignmentHW.AssemblyInfoInputs.cache
+D:\Repos\ITP-136\Week6AssignmentHW\Week6AssignmentHW\obj\Debug\net8.0\Week6AssignmentHW.AssemblyInfo.cs
+D:\Repos\ITP-136\Week6AssignmentHW\Week6AssignmentHW\obj\Debug\net8.0\Week6AssignmentHW.csproj.CoreCompileInputs.cache
+D:\Repos\ITP-136\Week6AssignmentHW\Week6AssignmentHW\obj\Debug\net8.0\Week6AssignmentHW.sourcelink.json
+D:\Repos\ITP-136\Week6AssignmentHW\Week6AssignmentHW\bin\Debug\net8.0\Week6AssignmentHW.exe
+D:\Repos\ITP-136\Week6AssignmentHW\Week6AssignmentHW\bin\Debug\net8.0\Week6AssignmentHW.deps.json
+D:\Repos\ITP-136\Week6AssignmentHW\Week6AssignmentHW\bin\Debug\net8.0\Week6AssignmentHW.runtimeconfig.json
+D:\Repos\ITP-136\Week6AssignmentHW\Week6AssignmentHW\bin\Debug\net8.0\Week6AssignmentHW.dll
+D:\Repos\ITP-136\Week6AssignmentHW\Week6AssignmentHW\bin\Debug\net8.0\Week6AssignmentHW.pdb
+D:\Repos\ITP-136\Week6AssignmentHW\Week6AssignmentHW\obj\Debug\net8.0\Week6AssignmentHW.dll
+D:\Repos\ITP-136\Week6AssignmentHW\Week6AssignmentHW\obj\Debug\net8.0\refint\Week6AssignmentHW.dll
+D:\Repos\ITP-136\Week6AssignmentHW\Week6AssignmentHW\obj\Debug\net8.0\Week6AssignmentHW.pdb
+D:\Repos\ITP-136\Week6AssignmentHW\Week6AssignmentHW\obj\Debug\net8.0\Week6AssignmentHW.genruntimeconfig.cache
+D:\Repos\ITP-136\Week6AssignmentHW\Week6AssignmentHW\obj\Debug\net8.0\ref\Week6AssignmentHW.dll
