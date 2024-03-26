@@ -1,0 +1,15 @@
+D:\Repos\ITP-136\Module9Assignment\Module9Assignment\bin\Debug\net8.0\Module9Assignment.exe
+D:\Repos\ITP-136\Module9Assignment\Module9Assignment\bin\Debug\net8.0\Module9Assignment.deps.json
+D:\Repos\ITP-136\Module9Assignment\Module9Assignment\bin\Debug\net8.0\Module9Assignment.runtimeconfig.json
+D:\Repos\ITP-136\Module9Assignment\Module9Assignment\bin\Debug\net8.0\Module9Assignment.dll
+D:\Repos\ITP-136\Module9Assignment\Module9Assignment\bin\Debug\net8.0\Module9Assignment.pdb
+D:\Repos\ITP-136\Module9Assignment\Module9Assignment\obj\Debug\net8.0\Module9Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\ITP-136\Module9Assignment\Module9Assignment\obj\Debug\net8.0\Module9Assignment.AssemblyInfoInputs.cache
+D:\Repos\ITP-136\Module9Assignment\Module9Assignment\obj\Debug\net8.0\Module9Assignment.AssemblyInfo.cs
+D:\Repos\ITP-136\Module9Assignment\Module9Assignment\obj\Debug\net8.0\Module9Assignment.csproj.CoreCompileInputs.cache
+D:\Repos\ITP-136\Module9Assignment\Module9Assignment\obj\Debug\net8.0\Module9Assignment.sourcelink.json
+D:\Repos\ITP-136\Module9Assignment\Module9Assignment\obj\Debug\net8.0\Module9Assignment.dll
+D:\Repos\ITP-136\Module9Assignment\Module9Assignment\obj\Debug\net8.0\refint\Module9Assignment.dll
+D:\Repos\ITP-136\Module9Assignment\Module9Assignment\obj\Debug\net8.0\Module9Assignment.pdb
+D:\Repos\ITP-136\Module9Assignment\Module9Assignment\obj\Debug\net8.0\Module9Assignment.genruntimeconfig.cache
+D:\Repos\ITP-136\Module9Assignment\Module9Assignment\obj\Debug\net8.0\ref\Module9Assignment.dll
