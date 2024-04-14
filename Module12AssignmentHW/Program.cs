@@ -55,8 +55,6 @@ namespace Module12AssignmentHW
                 e = new Part(partNum, partName, partDescription, cost);
             }
 
-
-
         }
     }
 }
