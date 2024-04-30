@@ -13,7 +13,6 @@ namespace Project3
             //This program will help you select exercises for your workout
             //First you will select upper body or lower body, then it will give you a list of exercises for each muscle group in that body region
             //You select one exercise for each muscle group, and then the program will list out your workout plan for that session
-            //The program reads data from csv files containing the lists of exercises for each muscle group
 
             int a = 0;
             bool validInput = false;
